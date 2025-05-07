@@ -1,0 +1,22 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Windows image file caches
+*.stackdump
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# System Volume Information (if accidentally committed)
+System Volume Information/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
