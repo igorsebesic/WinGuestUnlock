@@ -40,10 +40,10 @@ This script automates the following system changes:
    - Or download the `.bat` file directly from the repo.
 
 2. **Run the script** as **Administrator**:
-   - Right-click `anonymousUserWin11.bat` and select **"Run as administrator"**.
+   - Right-click `WinGuestUnlock.bat` and select **"Run as administrator"**.
    - Or open an elevated Command Prompt and run it manually:
      ```cmd
-     anonymousUserWin11.bat
+     WinGuestUnlock.bat
      ```
 
 3. **Restart your computer** after execution to finalize changes.
@@ -61,7 +61,7 @@ This script automates the following system changes:
 
 ## 📂 File List
 
-- `anonymousUserWin11.bat` – main script
+- `WinGuestUnlock.bat` – main script
 - `.gitignore` – ignores Windows/system junk
 - `README.md` – this documentation
 
